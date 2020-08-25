@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\asus\source\repos\DijitalDonusumNLayerProject\Data\obj\Debug\netcoreapp3.1\Data.pdb
