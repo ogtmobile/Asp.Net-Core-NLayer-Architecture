@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Service\\Service.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +55,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj"
               }
             }
           }
@@ -130,21 +136,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Service\\Service.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Service\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,11 +166,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Core\\Core.csproj"
               },
-              "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\DD_Ortak_Proje\\Asp.Net-Core-NLayer-Architecture\\Data\\Data.csproj"
               }
             }
           }
@@ -189,7 +198,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
