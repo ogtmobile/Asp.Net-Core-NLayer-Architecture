@@ -11,7 +11,7 @@ namespace Data.Repositories
         {
             get => _context as AppDbContext;
         }
-        public CategoryRepository(DbContext context) : base(context)
+        public CategoryRepository(AppDbContext context) : base(context)
         {
         }
 

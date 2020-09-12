@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {}
+    "C:\\Projects\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
+    "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\obj\\",
+        "projectPath": "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\oesme\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oesme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {
+    "C:\\Projects\\DijitalDonusumNLayerProject\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Projects\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Data\\obj\\",
+        "projectPath": "C:\\Projects\\DijitalDonusumNLayerProject\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\oesme\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\DijitalDonusumNLayerProject\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oesme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\asus\\source\\repos\\DijitalDonusumNLayerProject\\Core\\Core.csproj"
+              "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Projects\\DijitalDonusumNLayerProject\\Core\\Core.csproj"
               }
             }
           }
@@ -94,6 +104,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.7, )"
@@ -130,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,7 @@ namespace Data.Repositories
         protected readonly DbContext _context;
         private readonly DbSet<TEntity> _dbset;
 
-        public Repository(DbContext context)
+        public Repository(AppDbContext context)
         {
             _context = context;
             _dbset = context.Set<TEntity>();
@@ -40,9 +40,9 @@ namespace Data.Repositories
             return await _dbset.SingleOrDefaultAsync(predicate);
         }
 
-        public Task AddAsync(TEntity entity)
-        {
-            throw new NotImplementedException();
+        public async Task AddAsync(TEntity entity)
+        { 
+            await _dbset.AddAsync(entity);
         }
 
         public async Task AddRangeAsync(IEnumerable<TEntity> entities)
